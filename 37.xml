@@ -1,0 +1,26 @@
+<annotation>
+	<folder>crop</folder>
+	<filename>37.jpg</filename>
+	<path>D:\aliakbarzade\yolo5 master\yolov5-master\yolov5-master\data\images\crop\37.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>108</width>
+		<height>177</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>3</ymin>
+			<xmax>108</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+</annotation>
